@@ -1,3 +1,1 @@
-# nexus-kit
-
-react ui kit
+# nextjs+typescript+tailwindcss template
