@@ -1,13 +1,3 @@
-# next-ts-tpl
+# nexus-kit
 
-## dev
-
-```bash
-pnpm install
-```
-
-## build
-
-```bash
-pnpm build
-```
+react ui kit
